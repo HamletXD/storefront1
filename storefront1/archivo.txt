@@ -1,0 +1,1 @@
+<QueryDict: {'csrfmiddlewaretoken': ['j17xiMgY57gdPgVJtMShE4vUei8k21KqZfIScq422Zlq2p4gOtYpgXbXIJUKj6y5'], 'name': ['Hamlet'], 'surname': ['Arsenyan'], 'password': ['Rm4UCaCd'], 'email': ['playdelta333@gmail.com']}>
